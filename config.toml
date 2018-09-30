@@ -1,4 +1,4 @@
-baseURL = "http://shobhan.net"
+baseURL = "http://www.shobhan.net/"
 languageCode = "en-us"
 title = "Broke Physicist"
 theme = "hugo-theme-nix"
