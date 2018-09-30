@@ -1,3 +1,0 @@
-# shobhan126.github.io
-
-...
