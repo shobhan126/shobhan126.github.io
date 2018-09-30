@@ -1,0 +1,22 @@
+baseURL = "http://shobhan.net"
+languageCode = "en-us"
+title = "Broke Physicist"
+theme = "hugo-theme-nix"
+
+[params]
+Name = "Shobhan Kulshreshtha"
+HeaderUsername = "sk"
+HeaderHostname = "gt"
+About = "Hi I'm Shobhan. I'm a physics and mechanical engineering undergrad at Georgia Tech. This website is under construction..."
+GithubID = "https://www.github.com/shobhan126/"
+Email = "sk@gatech.edu"
+
+
+[menu]
+	[[menu.header]]
+		name = "posts"
+		weight = 0
+		url = "/posts"
+
+
+
