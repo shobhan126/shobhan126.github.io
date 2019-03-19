@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shobhan.net/fr/</loc>
+    <loc>https://www.shobhan.net/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shobhan.net/"
+                href="https://www.shobhan.net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://shobhan.net/fr/"
+                href="https://www.shobhan.net/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://shobhan.net/fr/</loc>
+    <loc>https://www.shobhan.net/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shobhan.net/"
+                href="https://www.shobhan.net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://shobhan.net/fr/"
+                href="https://www.shobhan.net/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://shobhan.net/fr/tags/</loc>
+    <loc>https://www.shobhan.net/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shobhan.net/tags/"
+                href="https://www.shobhan.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://shobhan.net/fr/tags/"
+                href="https://www.shobhan.net/fr/tags/"
                 />
   </url>
   

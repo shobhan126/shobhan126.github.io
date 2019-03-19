@@ -3,71 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shobhan.net/blog/not-good-enough/</loc>
+    <loc>https://www.shobhan.net/blog/not-good-enough/</loc>
     <lastmod>2019-03-18T03:58:20-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shobhan.net/about/</loc>
+    <loc>https://www.shobhan.net/about/</loc>
     <lastmod>2018-10-10T20:44:59-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shobhan.net/</loc>
+    <loc>https://www.shobhan.net/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://shobhan.net/fr/"
+                href="https://www.shobhan.net/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shobhan.net/"
+                href="https://www.shobhan.net/"
                 />
   </url>
   
   <url>
-    <loc>https://shobhan.net/blog/</loc>
+    <loc>https://www.shobhan.net/blog/</loc>
     <lastmod>2019-03-18T03:58:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shobhan.net/tags/ramble/</loc>
+    <loc>https://www.shobhan.net/tags/ramble/</loc>
     <lastmod>2019-03-18T03:58:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shobhan.net/</loc>
-    <lastmod>2019-03-18T03:58:20-04:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://shobhan.net/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shobhan.net/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://shobhan.net/tags/</loc>
+    <loc>https://www.shobhan.net/</loc>
     <lastmod>2019-03-18T03:58:20-04:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://shobhan.net/fr/tags/"
+                href="https://www.shobhan.net/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://shobhan.net/tags/"
+                href="https://www.shobhan.net/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.shobhan.net/tags/</loc>
+    <lastmod>2019-03-18T03:58:20-04:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.shobhan.net/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.shobhan.net/tags/"
                 />
   </url>
   
