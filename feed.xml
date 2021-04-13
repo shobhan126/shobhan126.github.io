@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Sho&#39;s Spot  ]]>
+    </title>
+    <link> https://shobhan126.github.io/ </link>
+    <description>
+      <![CDATA[  Shobhan&#39;s Personal Website  ]]>
+    </description>
+    <atom:link
+      href="https://shobhan126.github.io/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  about me  ]]>
+  </title>
+  <link> https://shobhan126.github.io/about/index.html </link>
+  <guid> https://shobhan126.github.io/about/index.html </guid>
+  <description>
+    <![CDATA[  a little bit about myself.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Shobhan Kulshreshtha</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  physics  ]]>
+  </title>
+  <link> https://shobhan126.github.io/physics/index.html </link>
+  <guid> https://shobhan126.github.io/physics/index.html </guid>
+  <description>
+    <![CDATA[  physics stuff  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Shobhan Kulshreshtha</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  blog  ]]>
+  </title>
+  <link> https://shobhan126.github.io/blog/index.html </link>
+  <guid> https://shobhan126.github.io/blog/index.html </guid>
+  <description>
+    <![CDATA[  empty blog page  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Shobhan Kulshreshtha</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  random  ]]>
+  </title>
+  <link> https://shobhan126.github.io/random/index.html </link>
+  <guid> https://shobhan126.github.io/random/index.html </guid>
+  <description>
+    <![CDATA[  random crap  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Shobhan Kulshreshtha</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>

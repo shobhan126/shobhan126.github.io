@@ -1,0 +1,4 @@
+Sitemap: https://shobhan126.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
