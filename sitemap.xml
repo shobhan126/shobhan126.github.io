@@ -2,38 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://shobhan.net/physics/index.html</loc>
-    <lastmod>2021-04-13</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/physics/index.html</loc>
+    <lastmod>2021-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://shobhan.net/about/index.html</loc>
-    <lastmod>2021-04-13</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/index.html</loc>
+    <lastmod>2021-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://shobhan.net/blog/index.html</loc>
-    <lastmod>2021-04-13</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/about/index.html</loc>
+    <lastmod>2021-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://shobhan.net/random/index.html</loc>
-    <lastmod>2021-04-13</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/menu1/index.html</loc>
+    <lastmod>2021-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://shobhan.net/404/index.html</loc>
-    <lastmod>2021-04-13</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/blog/index.html</loc>
+    <lastmod>2021-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://shobhan.net/index/</loc>
-    <lastmod>2021-04-13</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/menu2/index.html</loc>
+    <lastmod>2021-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/menu3/index.html</loc>
+    <lastmod>2021-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/random/index.html</loc>
+    <lastmod>2021-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/archived_index_0/index.html</loc>
+    <lastmod>2021-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/404/index.html</loc>
+    <lastmod>2021-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>

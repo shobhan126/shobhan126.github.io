@@ -1,145 +1,103 @@
 <!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.16.4 by Michael Rose
-  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
-<html lang="en" class="no-js">
-  <head>
-    <meta charset="utf-8">
-    <title>Under Construction...</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script>
-      document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-    </script>
-    <!-- For all browsers -->
-    <link rel="stylesheet" href="/css/minimal-mistakes.css">
-    <!--[if IE ]>
-      <style>
-        /* old IE unsupported flexbox fixes */
-        .greedy-nav .site-title {
-          padding-right: 4em;
-        }
-        .greedy-nav button {
-          position: absolute;
-          top: 0;
-          right: 0;
-          height: 100%;
-        }
-      </style>
-    <![endif]-->
-    <!-- start custom head snippets -->
-    <!-- insert favicons. use https://realfavicongenerator.net/ -->
-    <!-- end custom head snippets -->
-  </head>
-<body class="layout--splash">
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="/">Sho's Spot</a>
-        <ul class="visible-links">
-          <li class="masthead__menu-item"><a href="/about/" >about</a></li>
-          <li class="masthead__menu-item"><a href="/blog/" >blog</a></li>
-          <li class="masthead__menu-item"><a href="/physics/" >physics</a></li>
-          <li class="masthead__menu-item"><a href="/random/">random</a></li>
-        </ul>
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle menu</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="/libs/katex/katex.min.css">
+     
+  
+  <link rel="stylesheet" href="/css/franklin.css">
+<link rel="stylesheet" href="/css/poole_hyde.css">
+<!-- style adjustments -->
+<style>
+  html {font-size: 17px;}
+  .franklin-content {position: relative; padding-left: 8%; padding-right: 5%; line-height: 1.35em;}
+  @media (min-width: 940px) {
+    .franklin-content {width: 100%; margin-left: auto; margin-right: auto;}
+  }
+  @media (max-width: 768px) {
+    .franklin-content {padding-left: 6%; padding-right: 6%;}
+  }
+</style>
+<link rel="icon" href="/assets/favicon.png">
+
+   <title>Sho's Spot</title>  
+</head>
+<body>
+<div class="background-fill">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <img src="/assets/sho.jpg" style="height: 10vh; border-radius: 25%;" >
+      <div>
+        <h3><a href="/">Sho's Spot</a></h1>
+        <p class="lead">first order approximation of a website. </p>
+      </div>
+      
     </div>
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item active" href="/">home</a>
+      <a class="sidebar-nav-item " href="/about/">about</a>
+      <a class="sidebar-nav-item " href="/physics/">physics</a>
+      <a class="sidebar-nav-item " href="/random/">random</a>
+      <a class="sidebar-nav-item " href="/blog/">blog</a>
+    </nav>
+    <p class="sidebar-footer">&copy; Shobhan Kulshreshtha.</p>
   </div>
 </div>
+<div class="content container">
 
 
-<div class="initial-content">
-  <div class="page__hero--overlay"
-    style="background-color: #5e616c; background-image: url('/assets/cpw-goeppl2008-arxiv-0807-dot-4094.jpg');">
-    <div class="wrapper">
-      <h1 id="page-title" class="page__title" itemprop="headline">Under Construction...</h1>
-      <p class="page__lead">That was quite an unexpected projective measurement.</p>
-    </div>
+
+<!-- Content appended here -->
+<div class="franklin-content">
+<style>
+.background-fill {
+    background: url('/assets/grand_canyon.jpg');
+    height: 100%;
+    width: 100%;
+    background-size: inherit;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-color: rgba(247, 243, 243, 0.523);
+    background-blend-mode:color-burn;    
+}
+</style>
+
+<style>
+.franklin-content {
+    text-align: right;
+}
+    
+
+</style>
+
+<h1 id="ongoing_tinkering_with_franklinjl"><a href="#ongoing_tinkering_with_franklinjl" class="header-anchor">Ongoing: Tinkering with Franklin.jl</a></h1>
+<p>
+<style>
+.franklin-content h1 {
+    text-align: right;
+}
+</style>
+ I am experimenting with Franklin.jl, a static website generator, to biuld this website. It offers nifty features, like, easy TeX integration, and flexible html templating. It&#39;s written in Julia as the <code>.jl</code> suggests. </p>
+<p>The KaTeX rendering of TeX commands looks sort of like this: </p>
+<div class="no-number">\[
+ \dot{\rho} = \frac{i}{\hbar} [\hat{H}, \rho] 
+\]</div>
+<p>This would come in quite handy while writing about physics </br>and stuff.</p>
+<div class="page-foot">
+  <div class="copyright">
+    &copy; Shobhan Kulshreshtha. Last modified: April 15, 2021. Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>.
   </div>
-<!-- 
-  <div id="main" role="main">
-    <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
-      <meta itemprop="description" content="Oh no you collapsed a wavefunction.">
-      <section class="page__content" itemprop="text">
-        <div class="feature__wrapper">
-          <div class="feature__item">
-            <div class="archive__item">
-              <div class="archive__item-teaser">
-                <img src="/assets/minimal-mistakes/mm-customizable-feature.png" alt="customizable" />
-              </div>
-              <div class="archive__item-body">
-                <h2 class="archive__item-title">Franklin</h2>
-                <div class="archive__item-excerpt">
-                  <p>Minimal mistakes works with Franklin too!</p>
-                </div>
-                <p><a href="/minimal-mistakes/docs/configuration/" class="btn btn--primary">Learn more</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="feature__item">
-            <div class="archive__item">
-              <div class="archive__item-teaser">
-                <img src="/assets/minimal-mistakes/mm-responsive-feature.png" alt="fully responsive" />
-              </div>
-              <div class="archive__item-body">
-                <h2 class="archive__item-title">Responsive</h2>
-                <div class="archive__item-excerpt">
-                  <p>Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content.</p>
-                </div>
-                <p><a href="/minimal-mistakes/docs/layouts/" class="btn btn--primary">Learn more</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="feature__item">
-            <div class="archive__item">
-              <div class="archive__item-teaser">
-                <img src="/assets/minimal-mistakes/mm-free-feature.png" alt="100% free" />
-              </div>
-              <div class="archive__item-body">
-                <h2 class="archive__item-title">100% free</h2>
-                <div class="archive__item-excerpt">
-                  <p>Free to use however you want under the MIT License. Clone it, fork it, customize it… whatever!</p>
-                </div>
-                <p><a href="/minimal-mistakes/docs/license/" class="btn btn--primary">Learn more</a></p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-    </article> -->
-    <!-- CONTENT ENDS HERE -->
-
-      </div> <!-- closure of main -->
-    </div>   <!-- closure of class initial--content -->
-
-    <div class="page__footer">
-      <footer>
-        <!-- start custom footer snippets -->
-        <!-- end custom footer snippets -->
-        <div class="page__footer-follow">
-          <ul class="social-icons">
-            <li><strong>Follow:</strong></li>
-            <li><a href="https://twitter.com/anharmonictrap" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-            <li><a href="https://github.com/shobhan126" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
-          </ul>
-        </div>
-        <div class="page__footer-copyright">&copy; Shobhan Kulshreshtha. Powered by <a href="https://github.com/tlienart/Franklin.jl">Franklin</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
-      </footer>
-    </div>
-
-    <script src="/libs/minimal-mistakes/main.min.js"></script>
-    <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
+</div></div><!-- CONTENT ENDS HERE -->
+    </div>  <!-- div: content container -->
+    
+        <script src="/libs/katex/katex.min.js"></script>
+<script src="/libs/katex/auto-render.min.js"></script>
+<script>renderMathInElement(document.body)</script>
 
     
     
+</div>
   </body>
 </html>
-
